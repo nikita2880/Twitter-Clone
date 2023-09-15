@@ -18,18 +18,18 @@ Before you begin, ensure you have the following installed and set up on your mac
 
 To run the Twitter clone app locally, follow these steps:
 
-1. Install server dependencies:
-cd server
+1. Install server dependencies: </br>
+cd server </br>
 npm install
-2. Start the server:
+2. Start the server: </br>
 npm start
-3. Open a new terminal window, navigate to the client directory, and install client dependencies:
-cd ../client
+3. Open a new terminal window, navigate to the client directory, and install client dependencies: </br>
+cd ../client</br>
 npm install
-4. Install firebase
+4. Install firebase </br>
 npm install firebase
 5. Create a file named firebase.js in the client/src directory and add the Firebase configuration details
-6. Start the client:
+6. Start the client:</br>
 npm start
 
 ## Screenshots
